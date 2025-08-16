@@ -6,6 +6,7 @@
 📚 Sempre aprendendo, sempre construindo  
 ❤️ Programar não é só trabalho — é paixão  
 🇧🇷Brasil 🇦🇺Australia 🇵🇹Portugal
+
 ---
 
 🚀 Software Engineer | Java | AWS | Cloud  
@@ -14,6 +15,7 @@
 📚 Lifelong learner | Always hacking, always growing  
 ❤️ Coding is not just work — it’s passion  
 🇧🇷Brazil 🇦🇺Australia 🇵🇹Portugal
+
 ---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
